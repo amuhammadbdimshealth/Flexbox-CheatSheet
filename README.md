@@ -12,7 +12,7 @@
         <div class="box box6">6</div>
         <div class="box box7">7</div>
         <div class="box box8">8</div>
-        <div class="box box9">9</div>
+        <div class="box box9">9 </div>
         <div class="box box10">10</div>
   </div>
 ```
@@ -29,11 +29,17 @@
 ## 2. Working with Flexbox flex-direction
 
 1. Main axis
+
     ![Image](./images/main-axis.png)
+
 1. Cross axis
+
     ![Image](./images/cross-axis.png)
+
 1. `flex-direction: column` - changes the flex direction from default **row** to **column**
+
     ![Image](./images/column.png)
+
 1. Other **flex-direction** properties : 
     * `row-reverse`
     * `column-reverse`
@@ -65,7 +71,7 @@
         +   width: 33.3333333%
         }
         ```
-        ![Image](./images/33.33%.png)
+        ![Image](./images/33.33.png)
 
     * Changing the axis and then wrapping with limited height? See the output. Think why?
 
